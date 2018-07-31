@@ -1,8 +1,0 @@
-name: DWR_RNAseq_visualization
-account: reuscher
-server: shinyapps.io
-bundleId: 314539
-url: https://reuscher.shinyapps.io/DWR_RNAseq_visualization
-when: 1447976585.32448
-asMultiple: FALSE
-asStatic: FALSE
